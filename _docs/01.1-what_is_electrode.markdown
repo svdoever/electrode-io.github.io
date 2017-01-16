@@ -81,11 +81,10 @@ two powerful tools:
 
 *  [Electrode-Redux-Router-Engine](https://github.com/electrode-io/electrode-redux-router-engine) - an Electrode routing and rendering engine using react-router and redux.
 
-*  [Component Caching](https://github.com/electrode-io/electrode-react-ssr-caching) - an optimizer to improve React Server Side Rendering speed
+*  [Component Caching](https://github.com/electrode-io/electrode-react-ssr-caching) - an optimizer to improve React Server Side Rendering speed.
 
 *  [Electrode-Server](https://github.com/electrode-io/electrode-server) - a configurable web server using Hapi.js on top of Node.js.
 
 *  [Electrify](https://github.com/electrode-io/electrify) - a tool for analyzing the module tree of webpack projects.
 
 *  [Electrode-Docgen](https://github.com/electrode-io/electrode-docgen) - a custom metadata extractor for the Electrode framework, automates component documentation.
-mentation.
